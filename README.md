@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on AI and Full Stack projects<br><br>🌱 Learning Advanced Python, AI/ML, FastAPI, and Cloud<br><br>💻 Interested in<br>• Artificial Intelligence<br>• Machine Learning<br>• Full Stack Development<br>• Backend Development<br>• Cyber Security<br><br>🎯 Goal<br>To become a Software Engineer specializing in AI-powered applications.<br><br>📍 Vijayawada, Andhra Pradesh, India
+🔭 Currently working on AI and Full Stack projects<br><br>🌱 Learning Advanced Python, AI/ML, FastAPI, and Cloud<br><br>💻 Interested in<br>• Artificial Intelligence<br>• Machine Learning<br>• Devops<br>• AWS Cloud<br>• Full Stack Development<br>• Backend Development<br>• Cyber Security<br><br>🎯 Goal<br>To become a Software Engineer specializing in AI-powered applications.<br><br>📍 Vijayawada, Andhra Pradesh, India
 
 
 ## 🌐 Socials:
